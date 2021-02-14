@@ -1,0 +1,215 @@
+ms-auto mb-2 mb-lg-0
+
+ order-lg-1 order-2
+
+ order-lg-1   order-2
+
+
+ order-lg-1 order-2
+
+
+ <!-- new format start  
+<section class="format">
+  <div class="container">
+  
+    <!-- second row -->
+    <div class="row justify-content-center">
+      <!-- single item start -->
+      <div class="offset-md-0 col-lg-4 col-sm-6 ">
+        <div class="row">
+          <div class="col-md-9">
+            <div class="s_text">
+              <h1>| new format</h1>
+              <p>Lorem ipsum dolor sit amet, consecte
+sectetur adipisicing elit, tation omne 
+ullamco laboris nisi ut aliqolore.</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- single item end -->
+
+      <!-- single item start -->
+      <div class="col-md-4 col-sm-6">
+        <div class="row">
+          
+          <div class="col-md-9">
+            <div class="s_text">
+              <h1>|| master classes</h1>
+              <p>Lorem ipsum dolor sit amet, consecte
+sectetur adipisicing elit, tation omne 
+ullamco laboris nisi ut aliqolore.</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- single item end -->
+
+      <!-- single item start -->
+      <div class="col-md-4 col-sm-6">
+        <div class="row">
+          
+          <div class="col-md-9">
+            <div class="s_text">
+              <h1>||| pizza restaurant</h1>
+              <p>Lorem ipsum dolor sit amet, consecte
+sectetur adipisicing elit, tation omne 
+ullamco laboris nisi ut aliqolore.</p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- single item end -->
+    </div>
+  </div>
+</section>
+<!-- new format end -->
+
+
+
+
+
+.yellow_bar {
+    width: 245px;
+    height: 185px;
+    margin: 30px 70px;
+}
+.gallery_img {
+    min-height: 190px;
+}
+
+.pizzeria{
+    min-height: 300px;
+  }
+.yellow_bar1 {
+        width: 300px;
+        height: 185px;
+        margin: 57px 58px;
+}
+.c_content3 h1{
+    font-size: 25px;
+    margin-top:30px; 
+}
+ .text-block p {
+    font-size: 16px;
+    float: right;
+    padding-left: 0px!important;
+}
+.k2_content span{
+     font-size: 16px;
+   
+     }
+.k2_content a{
+      font-size: 20px;
+   }
+.c_1 i{
+    font-size: 35px;
+    text-decoration: none;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding: 5px;
+    }
+
+
+
+/*gallery img start*/
+.gallery_img {
+    min-height: 220px;
+    }
+
+  /*#pizzeria. start*/
+  .pizzeria{
+    min-height: 300px;
+  }
+.yellow_bar1 {
+        width: 300px;
+        height: 170px;
+        margin: 65px 0px;
+}
+.c_content3 h1{
+    font-size: 20px;
+    margin-top:30px; 
+}
+ .text-block p {
+    font-size: 10px;
+    float: right;
+    padding-left: 0px!important;
+}
+.k2_content span{
+     font-size: 10px;
+   
+     }
+.k2_content a{
+      font-size: 15px;
+   }
+.c_1 i{
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding: 5px;
+    }
+/*#pizzeria. end*/
+
+
+
+
+
+    <!-- #pizzeria. start-->
+<section class="pizzeria">
+  <div class="container">
+    <!-- position -->
+    <div class="position-relative ">
+         <div>
+              <div class="position-absolute top-50 end-50 yellow_bar1"> </div>
+         </div>
+    </div>
+    <!-- row start -->
+    <div class="row justify-content-center">
+      <div class="col-lg-2">
+        <div class="c_content3 text-center">
+          <h1 class="c_content3 h1">#pizzeria. </h1>
+        </div>
+      </div>
+    </div>
+
+     <div class="row">
+     <div class=" offset-md-3 col-md-3 order-lg-1 col-6 order-1">
+       <!-- <div class=" text-block"> -->
+         <p class="text-block p">Lorem ipsum dolor sit amet,  <br>consectetur adipisicing elit, sed <br> do  eiusmod tempor incididunt <br>  ut labore et dolore magna <br> aliqua. Ut enim ad minim <br>veniam, quis  </p>
+       <!-- </div> -->
+     </div>
+     <div class=" offset-md-1 col-md-4 order-lg-2 col-6 order-2">
+         <div class="k2_content">
+              <span>| find us here</span>
+                  <div class="row"></div>
+      <div class="col-lg-4 col-4"></div>
+        <div class="c_1">
+            <a href="#"><i class="fab fa-instagram"></i></i></a>
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-whatsapp"></i></i></a>
+        </div>
+      <div class="col-lg-4 col-4 "></div>
+
+      <span>| ask as here</span>
+      <a href="#">www.#pizzeria.com</a>
+     </div>
+   </div>
+ </div>
+  </div>
+
+
+  <div class="row justify-content-center">
+       <div class="col-md-6 col-6">
+         <div class="c_content4 text-center">
+           <h1 class="c_content4">Name Name</h1>
+         </div>
+       </div>
+    </div>
+</section>
+
+<!-- #pizzeria. end -->

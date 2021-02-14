@@ -1,0 +1,445 @@
+/* 
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Lato', sans-serif; 
+font-family: 'Raleway', sans-serif;
+Regular 400
+Bold 700
+
+*/
+/* common start */
+body{
+    /*background-image: url(../img/piza.jpg);*/
+    font-family: 'Lato', sans-serif;
+    /*font-size: 16px;*/
+    /*font-weight: 400;*/
+    /*color: #333333;*/
+    background-color: #242424;
+
+
+}
+/* common end */
+
+/*header & banner start*/
+.banner {
+    min-height: 950px;
+    background-image: url(../images/banner_pizza.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+header {
+    padding: 30px 0; 
+}
+.container-fluid{
+   padding-left: 0 !important;
+}
+.menu ul li a {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: #ffffff !important;
+    text-transform: capitalize;
+    padding: 0 45px !important;
+}
+.menu ul li a span {
+    color: #ffba00;
+}
+.menu ul li a:hover {
+    color: #ffba00!important;
+}
+
+.grand h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 120px;
+    font-weight: 100;
+    color: white;
+    line-height: 124px;
+    margin-top: 260px;
+    text-transform: uppercase;
+    
+}
+.read_more h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: white !important;
+    margin-top: 400px;
+    background-color: #ffba00;
+    border: 3px solid white;
+    width: 300px;
+    height: 80px;
+    padding: 20px 0 0 85px;
+    
+    text-transform: uppercase;
+}
+
+/* header & banner end */
+
+
+
+
+
+/* new start */
+.new{
+    background-color: #242424;
+    min-height: 550px!important;
+}
+.new_piza{
+    background-image: url(../images/piza_new.png);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 380px;
+    }
+
+.rotate h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    color: white;
+    transform: rotate(-90deg);
+    margin: 0 -80px;
+}
+.k1_content{
+
+}
+.k1_content h2{
+    font-size: 35px;
+    color: #ffffff;
+    margin-top: 20px;
+}
+.k1_content p{
+    font-family: 'Lato', sans-serif; 
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 30px;
+     color: #ffffff;
+    margin-top: 25px;
+}
+
+/* new end */
+
+
+/* new format start */
+.format{
+    padding: 70px 0 80px 85px;
+    background-color: white;
+    min-height: 350px;
+}
+
+.s_text{}
+.s_text h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+    color: #ffba00;
+    /*margin-top: 80px;*/
+    margin-bottom: 25px;
+}
+.s_text p{
+    font-family: 'lato', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #000000; 
+}
+
+/* new format end  */
+
+
+
+
+
+/* concept start */
+.concept{
+  background-color: #242424;
+  padding-top: 80px;
+  padding-bottom: 120px;
+
+}
+.title_h1{
+  font-size: 40px;
+  font-weight: 300;
+  color:#ffba00;
+  margin-top: 40px !important;
+
+}
+.title_p{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color:#ffffff;
+  letter-spacing: 1px;
+  margin-top: 40px !important;
+  margin-bottom: 40px !important;
+}
+
+.f_1 a{
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #ffffff !important;
+     
+}
+/* concept end */
+
+
+/* masterclass start */
+.masterglass{
+    background-image: url(../images/piza_order.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1210px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.c_master{
+  margin-bottom: 90px;
+}
+.c_master h1{
+    font-size: 40px;
+    font-weight: 900;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+.card{
+    background-color: #ffba00;
+}
+.mt-3{
+    font-family: 'Lato', sans-serif; 
+    font-size: 40px;
+    font-weight: 700;
+    color: #ffffff !important;
+    text-transform: uppercase;
+    padding: 0 56px;
+    margin-top: 90px !important;
+    margin-bottom: 45px;
+}
+.master-1{
+    font-family: 'Lato', sans-serif; 
+    font-size: 40px;
+    font-weight: 900;
+    color: #ffffff !important;
+    padding: 0 52px;
+    margin-bottom: 100px !important;
+}
+
+.card-text p{
+    font-family: 'Lato', sans-serif; 
+    font-size: 30px;
+    font-weight: 900;
+    color: #ffffff !important;
+    margin-bottom: 0 !important;
+}
+.card-text h2{
+    font-family: 'Lato', sans-serif; 
+    font-size: 30px;
+    font-weight: 900;
+    color: #ffffff !important;
+    margin-bottom: 50px !important;
+    margin-left: -30px !important;
+}
+
+.c_apply button{
+    
+    background-color: #ffba00;
+    text-transform: uppercase;
+    margin-top: 30px;
+    width: 380px;
+    height: 80px;
+    border: none;
+    
+}
+
+.c_apply button h1{
+    font-size: 30px;
+    font-weight: 900;
+    color: #ffffff;
+    float:left;
+    padding: 25px 0px 0px 15px;
+}
+/* masterclass end */
+
+/*gallery start*/
+.gallery{ 
+    min-height: 250px;
+}
+
+.yellow_bar{
+    width: 250px;
+    height: 250px;
+    background-color: #ffba00;
+    transform: rotate(-90deg);
+    margin: 0 100px;
+}
+
+.c_h1{
+    font-size: 25px;
+    font-weight: 900;
+    color: #ffba00;
+    text-transform: uppercase;
+    margin-top:165px; 
+}
+/*gallery end*/
+
+
+/*gallery img start */
+.gallery_img{
+    min-height: 475px;
+    background-image: url(../images/piza3.png);
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*gallery img end */
+
+
+/*#pizzeria. start*/
+.pizzeria{ 
+    min-height: 450px;
+}
+
+.yellow_bar1{
+    width: 450px;
+    height: 250px;
+    background-color: #ffba00;
+    transform: rotate(-90deg);
+    margin: 100px 0px;
+   
+}
+
+.c_content3 h1{
+    font-size: 25px;
+    font-weight: 900;
+    color: #ffba00;
+    text-transform: uppercase;
+    margin-top:110px; 
+    margin-bottom: 50px;
+}
+/*#pizzeria. end*/
+
+
+
+
+
+.c_content{
+  margin-bottom: 50px;
+}
+.c_h1{
+    font-size: 25px;
+    font-weight: 900;
+    color: #ffba00;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+
+.k1_img{
+  
+}
+.k1_img img{
+    min-height: 300px;
+    width: 100%;
+    margin top:0 auto;
+}
+.k2_img{
+  
+}
+
+.c_content2{
+  margin-bottom: 40px;
+}
+.container{}
+
+.c_content2 h1{
+    font-size: 25px;
+    font-weight: 700;
+    color: White;
+    margin-top:70px;
+}
+
+.text-block p{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: White;
+    position: absolute;
+    background-color: none;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    padding-left: 295px;
+    /*top: 200px;*/
+    /*right: 300px;*/
+}
+.k2_content span{
+  font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: White;
+}
+.k2_content a{
+  font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    color: #ffba00;
+    text-decoration: none;    
+}
+.c_1 i{
+    font-size: 40px;
+    text-decoration: none;
+    color: white !important;
+    margin-top: 8px;
+    margin-bottom: 25px;
+    padding: 5px;
+    background-image: round;
+}
+
+.c_content4 h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: White;
+    margin-top:25px;
+}
+
+
+/* footer start */
+footer{
+  background-color: #483500;
+  padding-top: 50px!important;
+  padding-bottom: 80px;
+ /* margin-top: 1000px;*/
+  
+}
+.f_1 h1{
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  
+}
+.f_1 p{
+  font-size: 12px;
+  font-weight: 500; 
+  color: white; 
+  word-spacing: 1px;
+  margin:0;
+
+
+}
+
+.f_1 p a{
+  color: white !important;
+  text-decoration: none;
+}
+
+/*footer end  */

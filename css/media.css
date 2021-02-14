@@ -1,0 +1,601 @@
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    /*header & banner start*/
+    header {
+    padding: 5px 0; 
+}
+    .img-fluid.logo{
+        height: 40px;
+        width: 180px;
+    }
+
+.navbar-light .navbar-toggler {
+    color: rgb(255 186 0);
+    border-color: rgb(255 186 0);
+}
+.banner{
+    min-height: 450px;
+}
+     .menu ul li a {
+       padding: 2px 120px !important;
+   }
+    .grand h1 {
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 250px;
+}
+    .read_more h2 {
+    font-size: 25px;
+    margin-top: 320px;
+    width: 300px;
+    height: 80px;
+    padding: 20px 0 0 78px;
+ }
+    /*header & banner end*/
+
+
+    /*new start*/
+    .new_piza{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+   .rotate h1{
+     font-size: 30px;
+    font-weight: 300;
+    transform: rotate(-90deg);
+    margin: 0 -100px;
+}
+
+.k1_content h2{
+    font-size: 20px;
+    margin-top: 40px;
+}
+.k1_content p{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+    margin-top: 20px;
+}
+  /*new end*/
+/*new format start*/
+   .format {
+    padding: 30px 0px 25px 25px;
+}
+
+.s_text h1{
+       font-size: 15px;
+       margin-bottom: 15px;
+       margin-top: 15px;
+}
+.s_text p{
+        font-size: 12px;
+        margin-bottom: 30px !important;
+  }
+  /*new format end*/
+  /*concept start*/
+  .concept {
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+.title_h1 {
+    font-size: 25px;
+    }
+    .title_p {
+    font-size: 14px;
+    margin-top: 20px !important;
+    margin-bottom: 28px !important;
+}
+.f_1 a {
+    font-size: 15px;
+}
+/*concept end*/
+
+/*masterclass start*/
+.masterglass{
+       padding-top: 40px;
+    padding-bottom: 40px;
+    min-height: 600px;
+}
+.c_master{
+  margin-bottom: 40px;
+}
+.c_master h1 {
+    font-size: 25px;
+    /*text-align: center;*/
+}
+.mt-3 {
+    font-size: 22px;
+    padding: 0px 55px;
+    margin-top: 55px !important;
+    margin-bottom: 20px;
+}
+.master-1 {
+    font-size: 22px;
+    padding: 15px 55px;
+    margin-bottom: 20px !important;
+}
+.card-text p {
+        font-size: 25px;
+       margin-bottom: 5px !important;
+       text-align: center;
+}
+.card-text h2 {
+    font-size: 25px;
+    margin-bottom: 10px !important;
+    margin-left: 0px !important;
+    text-align: center;
+}
+.c_apply button {
+    margin-top: 15px;
+    width: 274px;
+    height: 64px;
+    float: center;
+}
+/*masterclass end*/
+
+/*gallery start*/
+.gallery {
+    min-height: 195px;
+}
+.yellow_bar {
+        width: 195px;
+        height: 170px;
+        margin: 12px 65px;
+}
+.c_h1{
+    font-size: 20px;
+    margin-top:120px; 
+}
+/*gallery end*/
+
+/*pizzaria start*/
+.c_content3 h1 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+.yellow_bar1 {
+    display: none;
+}
+.text-block p{
+     font-size: 16px;
+    padding-left: 0px;
+ }
+ .k2_content{
+   /*margin: 185px 150px 0px 195px;*/
+   margin: 170px 145px 0px 80px;
+ }
+/*pizzaria end*/
+/*footer start*/
+footer {
+    
+    padding-top: 20px!important;
+    padding-bottom: 40px;
+    /* margin-top: 1000px; */
+}
+.f_1 h1{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+   }
+.f_1 p{
+  font-size: 12px;
+  /*margin-bottom: 30px;*/
+  text-align: center;
+}
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  /*header & banner start*/
+    header {
+    padding: 5px 0; 
+}
+    .img-fluid.logo{
+        height: 50px;
+        width: 220px;
+    }
+
+.navbar-light .navbar-toggler {
+    color: rgb(255 186 0);
+    border-color: rgb(255 186 0);
+}
+.banner{
+    min-height: 650px;
+}
+     .menu ul li a {
+       padding: 25px 50px !important;
+   }
+    .grand h1 {
+    font-size: 60px;
+    color: white;
+    line-height: 70px;
+    margin-top: 215px;
+    
+}
+    .read_more h2 {
+    font-size: 20px;
+    margin-top: 280px;
+    width: 220px;
+    height: 60px;
+    padding: 15px 0 0 50px;
+ }
+    /*header & banner end*/
+
+/*new start  */
+       .new_piza{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+        .rotate h1{
+    font-size: 37px !important;
+    transform: rotate(-90deg);
+    margin: 0 -90px !important;
+}
+    .k1_content p {
+      font-size: 21px;
+      line-height: 30px;
+        margin-top: 22px;
+ }
+ /*new end*/
+ /*new format start*/
+ .format {
+    padding: 20px 0px 0px 95px;
+    /*background-color: white;*/
+    /*min-height: 326px;*/
+}
+.s_text h1{
+       font-size: 20px;
+       margin-bottom: 15px;
+       margin-top: 15px;
+}
+.s_text p{
+    font-size: 14px;
+        margin-bottom: 30px !important;
+  }
+  /*new format end*/
+
+  /*concept start*/
+  .concept {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.title_h1 {
+    font-size: 27px;
+    }
+    .title_p {
+    font-size: 15px;
+    margin-top: 22px !important;
+    margin-bottom: 30px !important;
+}
+.f_1 a {
+    font-size: 20px;
+}
+/*concept end*/
+
+
+/*masterclass start*/
+.masterglass{
+       padding-top: 40px;
+    padding-bottom: 40px;
+    min-height: 600px;
+}
+.c_master{
+  margin-bottom: 40px;
+}
+.c_master h1 {
+    font-size: 25px;
+    /*text-align: center;*/
+}
+.mt-3 {
+    font-size: 22px;
+    padding: 0px 55px;
+    margin-top: 55px !important;
+    margin-bottom: 20px;
+}
+.master-1 {
+    font-size: 22px;
+    padding: 15px 55px;
+    margin-bottom: 20px !important;
+}
+.card-text p {
+        font-size: 25px;
+       margin-bottom: 5px !important;
+       text-align: center;
+}
+.card-text h2 {
+    font-size: 25px;
+    margin-bottom: 10px !important;
+    margin-left: 0px !important;
+    text-align: center;
+}
+.c_apply button {
+    margin-top: 15px;
+    width: 274px;
+    height: 64px;
+    float: center;
+}
+/*masterclass end*/
+
+/*gallery start*/
+
+.c_h1{
+    font-size: 22px;
+    margin-top:130px; 
+}
+/*gallery end*/
+
+/*pizzaria start*/
+.c_content3 h1 {
+    font-size: 25px;
+    margin-top: 70px;
+    margin-bottom: 35px;
+}
+.yellow_bar1 {
+    /*display: none;*/
+}
+.text-block p{
+     font-size: 18px;
+    padding-left: 0px;
+ }
+ .k2_content{
+   margin: 0px 0px 0px 300px;
+}
+/*pizzaria end*/
+
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+   /*header & banner start*/
+     header {
+    padding: 5px 0; 
+}
+    .img-fluid.logo{
+        height: 60x;
+        width: 250px;
+    }
+
+.navbar-light .navbar-toggler {
+    color: rgb(255 186 0);
+    border-color: rgb(255 186 0);
+}
+.banner{
+    min-height: 750px;
+}
+     .menu ul li a {
+       padding: 25px 50px !important;
+   }
+.menu ul li a:hover {
+        background-color: transparent;
+        color: #ffba00!important;
+    }
+    .grand h1 {
+    font-size: 70px;
+    line-height: 80px;
+    margin-top: 255px;
+    
+}
+    .read_more h2 {
+    font-size: 30px;
+    margin-top: 340px;
+    width: 255px;
+    height: 70px;
+    padding: 15px 0 0 50px;
+ }
+      /*header & banner end*/
+/*new start  */
+.format {
+    padding: 1px 0 0px 0px;
+    }
+            .new_piza{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+    .rotate h1{
+    font-size: 37px !important;
+    transform: rotate(-90deg);
+    margin: 0 -90px !important;
+}
+    .k1_content p {
+       font-size: 21px;
+      line-height: 30px;
+        margin-top: 22px;
+ }
+ /*new end*/
+ /*new format start*/
+ .s_text h1{
+       font-size: 15px;
+       margin-bottom: 15px;
+       margin-top: 15px;
+}
+.s_text p{
+        margin-bottom: 30px !important;
+  }
+  /*new format end*/
+/*concept start*/
+  .concept {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.title_h1 {
+    font-size: 30px;
+    }
+    .title_p {
+    font-size: 16px;
+    margin-top: 25px !important;
+    margin-bottom: 32px !important;
+}
+.f_1 a {
+    font-size: 25px;
+}
+/*concept end*/
+/*masterclass start*/
+.masterglass{
+       padding-top: 40px;
+    padding-bottom: 40px;
+    min-height: 600px;
+}
+.c_master{
+  margin-bottom: 40px;
+}
+.c_master h1 {
+    font-size: 25px;
+    /*text-align: center;*/
+}
+.mt-3 {
+    font-size: 22px;
+    padding: 0px 55px;
+    margin-top: 55px !important;
+    margin-bottom: 20px;
+}
+.master-1 {
+    font-size: 22px;
+    padding: 15px 55px;
+    margin-bottom: 20px !important;
+}
+.card-text p {
+        font-size: 22px;
+       margin-bottom: 5px !important;
+       text-align: center;
+}
+.card-text h2 {
+    font-size: 18px;
+    margin-bottom: 10px !important;
+    margin-left: 0px !important;
+    text-align: center;
+}
+.c_apply button {
+    margin-top: 15px;
+    width: 274px;
+    height: 64px;
+    float: center;
+}
+/*masterclass end*/
+
+/*gallery start*/
+.yellow_bar {
+        margin: 0 69px;
+}
+/*gallery end*/
+/*pizzaria start*/
+.c_content3 h1 {
+    font-size: 25px;
+    margin-top: 70px;
+    margin-bottom: 35px;
+}
+.yellow_bar1 {
+    /*display: none;*/
+}
+.text-block p{
+     font-size: 18px;
+    padding-left: 20px;
+ }
+ .k2_content{
+   margin: 0px 0px 0px 0px;
+}
+/*pizzaria end*/
+
+/*footer start*/
+.f_1 p a{
+  font-size: 10px;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /*header & banner start*/
+    .grand h1 {
+    font-size: 85px;
+    font-weight: 100;
+    line-height: 85px;
+    margin-top: 324px;   
+}
+   .read_more h2 {
+    font-size: 28px;
+    margin-top: 410px;
+    width: 280px;
+    height: 70px;
+    padding: 16px 0 0 65px;  
+}
+    /*header & banner end*/
+
+          .new_piza{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+    .rotate h1 {
+    font-size: 50px;
+    transform: rotate(-90deg);
+    margin: 0 -80px;
+}
+/*new end*/
+ /*new format start*/
+.s_text h1{
+       font-size: 20px;
+       margin-bottom: 20px;
+       margin-top: 20px;
+}
+.s_text p{
+        margin-bottom: 30px !important;
+  }
+  /*new format end*/
+/*pizzaria start*/
+.c_content3 h1 {
+    font-size: 25px;
+    margin-top: 70px;
+    margin-bottom: 35px;
+}
+.yellow_bar1 {
+    /*display: none;*/
+}
+.text-block p{
+     font-size: 20px;
+    padding-left: 150px;
+ }
+ .k2_content{
+   margin: 0px 0px 0px 60px;
+}
+/*pizzaria end*/
+/*footer start*/
+.f_1 p a{
+  font-size: 14px;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+   
+ }
+
+/*Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+/*new start*/   
+       .rotate h1{
+     font-size: 60px;
+    font-weight: 300;
+    margin: 0 -85px;
+}
+/*new end*/
+
+/*new format start*/
+.s_text p {
+        font-size: 18px;
+    }
+    /*new format end*/
+
+/*pizzaria start*/
+
+.text-block p{
+       padding-left: 180x;
+ }
+
+/*pizzaria end*/
+}
+   
+
+ 
